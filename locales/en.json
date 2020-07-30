@@ -1,0 +1,32 @@
+{
+  "links": {
+    "home": "Home",
+    "about": "About",
+    "english": "English",
+    "tw": "繁體中文"
+  },
+  "home": {
+    "title": "Welcome",
+    "introduction": "This is an introduction in English."
+  },
+  "about": {
+    "title": "About",
+    "introduction": "This page is made to give you more informations."
+  },
+  "footer-link": {
+    "home": "HOME",
+    "coupon": "COUPON",
+    "service": "SERVICE",
+    "my": "MY"
+  },
+  "index": {
+    "title": "Home",
+    "login-box": "Welcome,VIP",
+    "login-box-btn": "Login",
+    "login-box-deposit": "Deposit",
+    "login-box-withdrawal": "Withdrawal",
+    "login-box-transfer": "Transfer",
+    "login-box-vip": "VIP",
+    "marquee-type": "popular events"
+  }
+}

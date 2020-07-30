@@ -1,0 +1,30 @@
+[
+  {
+    "name": "index___en",
+    "path": "/en",
+    "component": "/Users/jean/Documents/git/m000303-mobile-html/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_2c6e2491"
+  },
+  {
+    "name": "inspire___zh-Hant",
+    "path": "/inspire",
+    "component": "/Users/jean/Documents/git/m000303-mobile-html/pages/inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_49a33cd9"
+  },
+  {
+    "name": "inspire___en",
+    "path": "/en/inspire",
+    "component": "/Users/jean/Documents/git/m000303-mobile-html/pages/inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_49a33cd9"
+  },
+  {
+    "name": "index___zh-Hant",
+    "path": "/",
+    "component": "/Users/jean/Documents/git/m000303-mobile-html/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_2c6e2491"
+  }
+]
